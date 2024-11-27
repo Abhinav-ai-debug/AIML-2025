@@ -1,6 +1,6 @@
 LAB - 01 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/AIML_LAB_01.ipynb
 
-LAB - 02 - 
+LAB - 02 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/AIML_LAB_02.ipynb
 
 LAB - 03 -
 
