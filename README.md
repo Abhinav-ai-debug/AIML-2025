@@ -6,7 +6,7 @@ LAB - 03 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/AIML_LAB_3.ip
 
 LAB - 04 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/AIML_Lab_04.ipynb
 
-LAB - 05 -
+LAB - 05 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/LAb05_Titanic.ipynb
 
 LAB - 06 -
 
