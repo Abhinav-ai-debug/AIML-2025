@@ -14,6 +14,6 @@ LAB - 07 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/LAb_07.ipynb
 
 LAB - 08 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/AIML_LAB_08.ipynb
 
-LAB - 09 -
+LAB - 09 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/AIML_LAB_09.ipynb
 
 LAB - 10 -
