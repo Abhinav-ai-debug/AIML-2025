@@ -10,7 +10,7 @@ LAB - 05 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/LAb05_Titanic
 
 LAB - 06 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/Lab_06__.ipynb
 
-LAB - 07 -
+LAB - 07 - https://github.com/Abhinav-ai-debug/AIML-2025/blob/main/LAb_07.ipynb
 
 LAB - 08 -
 
